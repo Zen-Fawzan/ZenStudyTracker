@@ -27,6 +27,7 @@ It calculates how long you've studied, stores each session in a database, and he
 
 ## 📦 Requirements
 
+- Linux OS
 - Python 3.x
 
 ---
@@ -36,6 +37,6 @@ It calculates how long you've studied, stores each session in a database, and he
 ```bash
 
 git clone https://github.com/yourusername/study-tracker.git
-cd study-tracker
-python study_tracker.py
+cd ZenStudyTracker
+python3 app.py
 
